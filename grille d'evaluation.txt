@@ -1,0 +1,12 @@
+le smart-contract compile correctement avec "npx hardhat compile" 1pt
+le smart-contract est testé par la commande "npx hardhat test" (min 5 tests significatifs) 1pt
+
+
+le test du smart-contract permet de tester l'ajout correct d'un bateau sur sa grille 1pt
+le test du smart-contract permet de tester l'ajout incorrect d'un bateau sur sa grille 1pt
+le test du smart-contract permet de tester une tentative correcte sur la grille de l'adversaire 1pt
+le test du smart-contract permet de tester une tentative incorrecte sur la grille de l'adversaire 1pt
+le test du smart-contract permet de tester une tentative correcte mais par le mauvais joueur sur la grille de l'adversaire 1pt
+
+le test du smart-contract permet de tester si la partie est terminée 1pt
+le test du smart-contract permet de tester qui est vainqueur. 1pt
